@@ -36,9 +36,6 @@ https://github.com/Sumittecorb/drag-drop-management-nextjs-tailwind/assets/10520
 ### Frameworks
 
 - [Next.js](https://nextjs.org/) – React framework for building performant apps with the best developer experience
-- [Node.js](https://authjs.dev/) – Handle user authentication with ease with providers like Google, Twitter, GitHub, etc.
-
-
 
 ### Platforms
 
