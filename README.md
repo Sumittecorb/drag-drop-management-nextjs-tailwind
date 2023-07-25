@@ -1,5 +1,5 @@
 <a href="https://aichatbot-web.vercel.app/">
-  <img alt="AI Chat Bot" src="https://github.com/Sumittecorb/ai-chat-bot/blob/main/public/drag-n-drop.png">
+  <img alt="AI Chat Bot" src="https://github.com/Sumittecorb/drag-drop-management-nextjs-tailwind/blob/main/public/drag-n-drop.png">
   <h1 align="center">Drag and Drop task management</h1>
 </a>
 
