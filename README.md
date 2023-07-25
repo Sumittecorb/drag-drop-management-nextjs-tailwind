@@ -1,4 +1,4 @@
-<a href="https://aichatbot-web.vercel.app/">
+<a href="https://drag-drop-management.vercel.app/">
   <img alt="Drag and drop" src="https://github.com/Sumittecorb/drag-drop-management-nextjs-tailwind/blob/main/public/drag-n-drop.png">
   <h1 align="center">Drag and Drop task management</h1>
 </a>
