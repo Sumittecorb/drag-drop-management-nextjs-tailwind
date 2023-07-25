@@ -27,8 +27,9 @@ In this project we can add task and change the progress of task by drag and drop
  ## Tech Stack + Features
 
 
+https://github.com/Sumittecorb/drag-drop-management-nextjs-tailwind/assets/105202084/0606a37c-bf2f-4c66-83c6-4a1706ce9cb9
 
-https://github.com/Sumittecorb/ai-chat-bot/assets/105202084/70cbfedc-f1d7-4548-880f-757f4a44df4d
+
 
 
 
